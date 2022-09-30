@@ -8,7 +8,6 @@ Auteurs :	JAAFAR Amir
 
 Tuteur :	LEMAIRE Marc
 
-Disponible sur les URL :	http://jaafar-amir.alwaysdata.net/projet\
-			http://nadiabouras.alwaysdata.net/projet\
+Disponible sur les URL :	http://amirjaafar.alwaysdata.net/projet
 
 Entreprise : CY Université
